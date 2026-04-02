@@ -1,16 +1,12 @@
-# 🏦 Loan Default Analysis — Power BI Dashboard
+#  Loan Default Analysis — Power BI Dashboard
 https://app.powerbi.com/links/Q1vQu0d9zF?ctid=51697115-1ecd-42b5-b509-2d62c3919f76&pbi_source=linkShare
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 > An end-to-end Power BI project analysing **255,347 loan records** to uncover default patterns, demographic risk profiles, and year-over-year financial trends — built on a full data pipeline from SQL Server to Power BI Service.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project simulates a real-world banking analytics workflow. Raw loan data was ingested into **SQL Server**, connected to **Power BI Service via Gateway and Dataflow**, transformed in **Power Query**, and analysed using advanced **DAX measures and calculated columns** across 3 report pages.
 
@@ -21,7 +17,7 @@ The goal was to answer critical business questions around:
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 | Property | Details |
 |---|---|
@@ -32,7 +28,7 @@ The goal was to answer critical business questions around:
 
 ---
 
-## 🏗️ Data Pipeline Architecture
+##  Data Pipeline Architecture
 
 ```
 Excel File
@@ -50,18 +46,18 @@ Power BI Service (Published Report)
 
 ---
 
-## 🔧 Data Transformation (Power Query)
+##  Data Transformation (Power Query)
 
 Steps performed in Power Query Editor:
 
-- ✅ Inspected **Column Quality**, **Column Profile**, and **Column Distribution** for all columns
-- ✅ Verified and corrected **data types** for each column
-- ✅ Identified date format as `MM-DD-YY` — handled via DAX calculated column
-- ✅ Removed nulls and validated row counts against source
+-  Inspected **Column Quality**, **Column Profile**, and **Column Distribution** for all columns
+-  Verified and corrected **data types** for each column
+-  Identified date format as `MM-DD-YY` — handled via DAX calculated column
+-  Removed nulls and validated row counts against source
 
 ---
 
-## 📊 Report Pages
+##  Report Pages
 
 ### Page 1 — Loan Default & Overview
 
@@ -244,7 +240,7 @@ CALCULATE(
 
 ---
 
-## ✅ Data Validation Approach
+##  Data Validation Approach
 
 Every single measure and calculated column was validated using **3 methods**:
 
@@ -258,7 +254,7 @@ This 3-way validation ensures **100% accuracy** of all reported metrics.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Usage |
 |---|---|
@@ -272,17 +268,17 @@ This 3-way validation ensures **100% accuracy** of all reported metrics.
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
-- 📌 **Employment Type** is a strong predictor of default — self-employed borrowers show higher default rates
-- 📌 **Credit Score** directly impacts loan amounts — High credit (>650) borrowers take significantly larger loans
-- 📌 **Middle Age Adults (40–59)** hold the highest total loan volume in the dataset
-- 📌 **YOY trends** reveal increasing loan amounts with a corresponding rise in default rates
-- 📌 **Low Income bracket** combined with self-employment shows the highest decomposition of loan risk
+-  **Employment Type** is a strong predictor of default — self-employed borrowers show higher default rates
+-  **Credit Score** directly impacts loan amounts — High credit (>650) borrowers take significantly larger loans
+-  **Middle Age Adults (40–59)** hold the highest total loan volume in the dataset
+-  **YOY trends** reveal increasing loan amounts with a corresponding rise in default rates
+-  **Low Income bracket** combined with self-employment shows the highest decomposition of loan risk
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 loan-default-powerbi/
@@ -295,30 +291,3 @@ loan-default-powerbi/
 └── README.md
 ```
 
----
-
-## 🚀 How to Run This Project
-
-1. Clone this repository
-2. Open `LoanDefault_Dashboard.pbix` in **Power BI Desktop**
-3. If prompted, update the data source path to your local `loan_data.xlsx`
-4. Click **Refresh** to reload data
-5. Explore all 3 report pages
-
-> **Note:** To replicate the full pipeline (SQL Server → Gateway → Dataflow), you will need a Power BI Pro licence and SQL Server instance.
-
----
-
-## 📝 Resume Line to Use
-
-> *"Built an end-to-end Power BI dashboard on 255,347 loan records — designed a full data pipeline from SQL Server through Power BI Gateway and Dataflow, authored 12 DAX measures and 4 calculated columns across 3 report pages, and validated every metric using Power BI table visuals and Excel pivot tables."*
-
----
-
-## 👤 Author
-
-**Your Name**
-📧 your.email@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-🌐 [Portfolio](https://yourusername.github.io)
-🐙 [GitHub](https://github.com/yourusername)
