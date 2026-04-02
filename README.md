@@ -53,11 +53,9 @@ Power BI Service (Published Report)
 
 - **Step 4** : Opened **Power Query Editor** → under the **View** tab, enabled **Column Quality**, **Column Distribution**, and **Column Profile** for all columns to inspect data health.
 
-![Power Query Profiling](screenshots/powerquery_profiling.png)
+![Power Query Profiling](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/9524f6d63f8937cee11e5c838f313891c40f8f82/columnprofiling.png)
 
 - **Step 5** : Verified and corrected **data types** for every column — ensured numeric, text, and date fields were correctly classified.
-
-![Data Types](screenshots/powerquery_datatypes.png)
 
 - **Step 6** : Identified the **Loan Date** column had mixed date formats (`MM/DD/YYYY` and `DD-MM-YYYY`). Resolved this using a **DAX calculated column** rather than Power Query to handle both formats cleanly.
 
@@ -239,6 +237,10 @@ Power BI Service (Published Report)
     - **Power BI Filter Pane** — applied category and "not blank" filters to cross-check aggregates
     - **Excel Pivot Table** — replicated each measure in Excel pivot to confirm totals match
 
+   Snap of Created Columns:
+
+   ![Columns](screenshots/powerquery_datatypes.png)
+   
     Snap of Excel validation:
 
     ![Excel Validation](screenshots/excel_validation.png)
