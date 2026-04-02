@@ -247,7 +247,7 @@ Power BI Service (Published Report)
 
 - **Step 18** : Published the report to **Power BI Service**.
 
-![Publish Success](screenshots/publish.png)
+![Publish Success](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/c532ad475f66ae7a6e8e398525b5e410e0467839/publish.png)
 
 ---
 
