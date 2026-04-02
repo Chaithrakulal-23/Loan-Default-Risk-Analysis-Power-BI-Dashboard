@@ -260,7 +260,7 @@ Power BI Service (Published Report)
 ![Page 2 Power BI Service](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/d99f83f58246ad282f5efcf2e75da7b50bfcb8d9/page2p.png)
 
 ### Page 3 — Financial Risk Metrics
-![Page 3 Power BI Service](screenshots/pagep3.png)
+![Page 3 Power BI Service](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/c9d963c8bffabf066b03e1fbaa057185279ca928/pagep3.png)
 
 ---
 
