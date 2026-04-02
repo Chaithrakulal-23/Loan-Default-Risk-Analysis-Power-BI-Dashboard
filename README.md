@@ -267,7 +267,7 @@ Power BI Service (Published Report)
 ## Report Snapshot (Power BI Desktop)
 
 ### Page 1 — Loan Default & Overview
-![Page 1 Desktop](screenshots/page1.png)
+![Page 1 Desktop](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/b5e82d64d5f001732612e91e3e38c6bd35b17d9e/page1.png)
 
 ### Page 2 — Applicant Demographics & Financial Profile
 ![Page 2 Desktop](screenshots/page2.png)
