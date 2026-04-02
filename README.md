@@ -39,7 +39,7 @@ Power BI Service (Published Report)
 
 ### Gateway Connection (Power BI Service)
 
-![Gateway](screenshots/gateway.png)
+![Gateway](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/ea0446476d3905441a3fcd66d36aecbe5c5eba84/gateway.png)
 
 ---
 
