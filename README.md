@@ -123,7 +123,7 @@ Power BI Service (Published Report)
 
     Snap of DAX measure in formula bar:
 
-    ![DAX Measure](screenshots/dax_measure.png)
+    ![DAX Measure](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/ac498a3cd912d4ed599865ab5f3a0f6a69612134/dax.png)
 
 - **Step 11** : Built **Page 2 — Applicant Demographics & Financial Profile** with 5 visuals covering credit score segmentation, marital status distribution, education level, and age group loan breakdown.
 
