@@ -239,7 +239,7 @@ Power BI Service (Published Report)
 
    Snap of Created Columns:
 
-   ![Columns](screenshots/powerquery_datatypes.png)
+   ![Columns](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/5a26108073f79d8551ae6c74adc4fed4c977efa4/addedcolumns.png)
    
     Snap of Excel validation:
 
