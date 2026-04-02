@@ -42,6 +42,16 @@ Power BI Service (Published Report)
 ![Gateway](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/ea0446476d3905441a3fcd66d36aecbe5c5eba84/gateway.png)
 
 ---
+### Dataflow Connection (Power BI Service)
+
+![Dataflow](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/ea0446476d3905441a3fcd66d36aecbe5c5eba84/gateway.png)
+
+---
+### SQL Connection (Power BI Service)
+
+![SQL](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/ea0446476d3905441a3fcd66d36aecbe5c5eba84/gateway.png)
+
+---
 
 ## Steps Followed
 
@@ -245,6 +255,10 @@ Power BI Service (Published Report)
 
     ![Excel Validation](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/f2ca185e292720f8e7870c0270ac7570f49e623d/validatingexcel.png)
 
+  Snap of PowerBI validation:
+
+    ![PowerBI Validation](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/f2ca185e292720f8e7870c0270ac7570f49e623d/validatingexcel.png)
+
 - **Step 18** : Published the report to **Power BI Service**.
 
 ![Publish Success](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/c532ad475f66ae7a6e8e398525b5e410e0467839/publish.png)
@@ -273,7 +287,7 @@ Power BI Service (Published Report)
 ![Page 2 Desktop](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/c068d8e8628ba62445f8d903bf169d1d9accaf7c/page2.png)
 
 ### Page 3 — Financial Risk Metrics
-![Page 3 Desktop](screenshots/page3.png)
+![Page 3 Desktop](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/8e111ab1e342cae68f1ff74e3487fd0a0c92dc88/page3.png)
 
 ---
 
