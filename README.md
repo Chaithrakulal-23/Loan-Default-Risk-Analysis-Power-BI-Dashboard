@@ -44,7 +44,7 @@ Power BI Service (Published Report)
 ---
 ### Dataflow Connection (Power BI Service)
 
-![Dataflow](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/ea0446476d3905441a3fcd66d36aecbe5c5eba84/gateway.png)
+![Dataflow](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/ed58eeb1abb363d0126f3c54c2e84b6aa2121c40/dataflow.png)
 
 ---
 ### SQL Connection (Power BI Service)
