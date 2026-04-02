@@ -6,7 +6,7 @@
 
 This dashboard helps banking institutions analyse loan default behaviour across their borrower portfolio. It enables risk teams to identify which customer segments are most likely to default, based on factors such as employment type, credit score, income bracket, and age group. Through year-over-year trend analysis, lenders can track whether default rates are improving or worsening over time, and take proactive measures accordingly.
 
-Since self-employed borrowers show the highest default rates and low-income segments carry the greatest loan risk, institutions must focus their risk mitigation strategies on these groups. The dashboard also reveals that loan amounts are rising year-over-year alongside default rates — indicating a growing risk exposure that requires immediate attention.
+Since self-employed borrowers show the highest default rates and low-income segments carry the greatest loan risk, institutions must focus their risk mitigation strategies on these groups. The dashboard also reveals that loan amounts are rising year-over-year alongside default rates indicating a growing risk exposure that requires immediate attention.
 
 ---
 
@@ -37,19 +37,19 @@ Power BI Desktop (Transformation + Modelling)
 Power BI Service (Published Report)
 ```
 
-### Gateway Connection (Power BI Service)
+### Gateway Connection 
 
 ![Gateway](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/ea0446476d3905441a3fcd66d36aecbe5c5eba84/gateway.png)
 
 ---
-### Dataflow Connection (Power BI Service)
+### Dataflow Connection 
 
 ![Dataflow](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/ed58eeb1abb363d0126f3c54c2e84b6aa2121c40/dataflow.png)
 
 ---
-### SQL Connection (Power BI Service)
+### SQL Connection 
 
-![SQL](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/ea0446476d3905441a3fcd66d36aecbe5c5eba84/gateway.png)
+![SQL](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/db48c4ea0a508905bd85b7297d16340d33daebc9/ssms%20-%20Copy.png)
 
 ---
 
