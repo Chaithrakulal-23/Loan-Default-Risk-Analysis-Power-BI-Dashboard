@@ -257,7 +257,7 @@ Power BI Service (Published Report)
 ![Page 1 Power BI Service](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/c0f8add8b0501b4ae511b6bd6252373c2936c34a/pagep1.png)
 
 ### Page 2 — Applicant Demographics & Financial Profile
-![Page 2 Power BI Service](screenshots/page2p.png)
+![Page 2 Power BI Service](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/d99f83f58246ad282f5efcf2e75da7b50bfcb8d9/page2p.png)
 
 ### Page 3 — Financial Risk Metrics
 ![Page 3 Power BI Service](screenshots/pagep3.png)
