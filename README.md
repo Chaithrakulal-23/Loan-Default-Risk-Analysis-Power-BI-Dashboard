@@ -243,7 +243,7 @@ Power BI Service (Published Report)
    
     Snap of Excel validation:
 
-    ![Excel Validation](screenshots/excel_validation.png)
+    ![Excel Validation](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/f2ca185e292720f8e7870c0270ac7570f49e623d/validatingexcel.png)
 
 - **Step 18** : Published the report to **Power BI Service**.
 
