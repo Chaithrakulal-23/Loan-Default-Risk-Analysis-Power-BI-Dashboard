@@ -257,11 +257,11 @@ Power BI Service (Published Report)
 
   Snap of PowerBI validation:
 
-    ![PowerBI Validation](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/f2ca185e292720f8e7870c0270ac7570f49e623d/validatingexcel.png)
+    ![PowerBI Validation](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/f2ca185e292720f8e7870c0270ac7570f49e623d/validatingpower.png)
 
 - **Step 18** : Published the report to **Power BI Service**.
 
-![Publish Success](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/f2ca185e292720f8e7870c0270ac7570f49e623d/validatingpower.png)
+![Publish Success](https://github.com/Chaithrakulal-23/Loan-Default-Risk-Analysis-Power-BI-Dashboard/blob/a5ccaf8c71f6d550389621e1d266532de63903c5/publish.png)
 
 ---
 
